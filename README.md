@@ -1,4 +1,4 @@
-# 🌆 Urban Heat Island (UHI) Predictor – CPU Version
+# 🌆 Urban Heat Island (UHI) Predictive Analysis 
 
 A lightweight, containerized machine learning dashboard to analyze and predict Urban Heat Island (UHI) effects using greening effort simulations and clustering — powered by Scikit-learn and Streamlit.
 
